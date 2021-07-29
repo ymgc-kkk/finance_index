@@ -1,0 +1,49 @@
+body{
+    background: #f0f8ff;
+}
+form dl dt {
+    width: 200px;
+    height: 40px;
+    padding: 10px 0;
+    line-height: 40px;
+    float: left;
+}
+form dl dd {
+    padding: 10px 0;
+    margin: 0;
+}
+.box {
+    /* box-sizing: border-box; */
+    width: 150px !important;
+    height: 40px !important;
+    margin: 0 !important;
+    padding: 0 10px !important;
+}
+.calc-btn {
+    width: 80px;
+    height: 30px;
+    border: 1px solid #333;
+}
+.calc-btn:hover {
+    cursor: pointer;
+}
+
+.send_btn{
+    width: 70px;
+    height: 30px;
+}
+
+.del_btn{
+    width: 70px;
+    height: 30px;
+}
+
+.confirm_btn{
+    width: 70px;
+    height: 30px;
+}
+
+.back_btn{
+    width: 70px;
+    height: 30px;
+}
